@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<?xml-stylesheet href="style.css"?>
+<setList>
+  <song>
+    <artist> Marc E. Bassy </artist>
+    <name> Morning </name>
+    <genre> Pop </genre>
+    <year> 2016 </year>
+  </song>
+  <song>
+    <artist> Joji </artist>
+    <name> 777 </name>
+    <genre> Alternative </genre>
+    <year> 2020 </year>
+  </song>
+  <song>
+    <artist> Matt Maeson </artist>
+    <name> Hallucinogenics </name>
+    <genre> Alternative </genre>
+    <year> 2016 </year>
+  </song>
+  <song>
+    <artist> Taylor Swift </artist>
+    <name> The Way I Loved You </name>
+    <genre> Country </genre>
+    <year> 2008 </year>
+  </song>
+  <song>
+    <artist> Dan + Shey </artist>
+    <name> Tequila </name>
+    <genre> Country </genre>
+    <year> 2018 </year>
+  </song>
+  <song>
+    <artist> Shag Rock </artist>
+    <name> Sunbleached Girl </name>
+    <genre> Alternative </genre>
+    <year> 2017 </year>
+  </song>
+  <song>
+    <artist> Russ </artist>
+    <name> Losin Control </name>
+    <genre> Rap </genre>
+    <year> 2015 </year>
+  </song>
+  <song>
+    <artist> Jay-Z </artist>
+    <name> Empire State of Mind </name>
+    <genre> Rap </genre>
+    <year> 2009 </year>
+  </song>
+  <song>
+    <artist> Frank Ocean </artist>
+    <name> Moon River </name>
+    <genre> Pop </genre>
+    <year> 2018 </year>
+  </song>
+  <song>
+    <artist> fun. </artist>
+    <name> We Are Young </name>
+    <genre> Pop </genre>
+    <year> 2012 </year>
+  </song>
+
+</setList>

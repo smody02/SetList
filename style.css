@@ -1,0 +1,52 @@
+setList:before {
+  display: block;
+  width: 4em;
+  font-weight: bold;
+  font-size: 200%;
+  content: "Set List:";
+  margin: -.75em 0px .25em -.25em;
+  padding: .1em .25em;
+  background-color: #cdf;
+  }
+
+setList {
+  display: block;
+  margin: 2em 1em;
+  border: 4px solid #cdf;
+  padding: 0px 1em;
+  background-color: white;
+  }
+
+artist {
+  margin-top: 2em;
+  display: block;
+  font-weight: bold;
+  font-size: 150%;
+  }
+
+name:before {
+  content: "Song: ";
+  }
+
+name {
+  display: block;
+  font-size: 125%;
+  }
+
+genre {
+  display: block;
+  font-size: 125%;
+  }
+
+genre:before {
+  content: "Genre: ";
+  }
+
+year {
+  display: block;
+  font-size: 125%;
+  }
+
+year:before {
+  content: "Released: ";
+  }
